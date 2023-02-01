@@ -5,3 +5,4 @@ RENCANA LAGI
 - Saya mau upgrade skill
 - PHP Framework
   ^ Codeigniter
+  ^ Laravel
