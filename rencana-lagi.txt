@@ -3,3 +3,5 @@ RENCANA LAGI
 - Saya mau belajar android
   * React Native
 - Saya mau upgrade skill
+- PHP Framework
+  ^ Codeigniter
